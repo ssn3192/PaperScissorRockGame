@@ -1,2 +1,3 @@
 # PaperScissorRockGame
-Paper Scissor Rock game
+
+One of the famous game is implemented using Javascript
